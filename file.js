@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h2>what can javascript do?</h2>
+<h2> can javascript do?</h2>
 
 <p id="demo>javascript can change html content.</p>
-
+ hello
 </body>
 </html>
 
